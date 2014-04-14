@@ -10,5 +10,6 @@ int main() {
 #ifndef _GLIBCXX_HAS_GTHREADS
   cout << "GThreads are not supported..." << endl;
 #endif
+  cout << "Hello World!" << endl;
   return 0;
 }
